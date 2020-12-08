@@ -30,3 +30,4 @@ Ner是一个类，model_name有四种相关参数分别对应不同模型：
 
 （2）其中对于bert+bilstm+crf模型，是基于腾讯开源项目bert-as-service的C/S架构的，需要指定ip参数（即服务器端的模型）
 
+（3）stanford模型需要下载相应的模型到"model\stanford-corenlp-full-2016-10-31\"目录下
